@@ -1,3 +1,5 @@
+package PracticeProblems;
+
 import java.util.Scanner;
 
 public class example {

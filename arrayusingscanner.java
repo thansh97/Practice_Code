@@ -1,3 +1,5 @@
+package PracticeProblems;
+
 import java.util.*;
 class arrayusingscanner {
     public static void main(String[] args) {
